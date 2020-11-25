@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=menu
+comment0.text=\r\n\ Global\ World\ Class\r\n\ \r\n\ @author\ Rajesh\ Patel,\ Johnathan\ Sewell,\ Garrett\ Dickinson\r\n\ @version\ 4-18-2020\r\n
+comment1.params=
+comment1.target=menu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ menu.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ world.\r\n\ Checks\ to\ see\ if\ the\ player\ has\ pressed\ space,\ and\ if\ so\ start\ the\ game.\r\n
+comment3.params=text
+comment3.target=void\ setMessage(java.lang.String)
+comment3.text=\r\n\ Set\ the\ message\ for\ the\ title\ screen\r\n\ @param\ text\ -\ text\ to\ display\ as\ string\r\n
+numComments=4

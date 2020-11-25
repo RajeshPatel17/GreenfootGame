@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Bullet\ Class\r\n\ \r\n\ @author\ Rajesh\ Patel,\ Johnathan\ Sewell,\ Garrett\ Dickinson\r\n\ @version\ 4-18-2020\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkForHit()
+comment2.text=\r\n\ Check\ for\ Hit\ method.\r\n\ Check\ to\ see\ if\ the\ bullet\ has\ collided\ with\ another\ object,\ and\ modify\ the\ player's\ points\ based\ on\ what\ the\ object\ is.\r\n\ Subtract\ a\ point\ if\ it\ is\ an\ animal,\ and\ add\ a\ point\ if\ it\ is\ a\ piece\ of\ garbage.\r\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Net
+comment0.text=\r\n\ Gun\ Class\r\n\ \r\n\ @author\ Rajesh\ Patel,\ Johnathan\ Sewell,\ Garrett\ Dickinson\r\n\ @version\ 4-18-2020\r\n
+comment1.params=
+comment1.target=Net()
+comment1.text=\r\n\ Net\ constructor\ function\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ net\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ sizeDown()
+comment3.text=\r\n\ Net\ size\ down\ method.\r\n\ Scale\ the\ net\ down\ to\ 1\ square\ pixel,\ then\ remove\ the\ object\ once\ it\ is\ small\ enough\r\n
+comment4.params=
+comment4.target=void\ netUsed()
+comment4.text=\r\n\ Net\ used\ method\r\n\ When\ the\ net\ is\ instantiated,\ find\ all\ of\ the\ objects\ surrounding\ the\ net\ and\ remove\ them\r\n\ Once\ removed,\ adjust\ the\ player's\ score\ accordingly\ based\ on\ what\ the\ objects\ are\r\n\ Subtract\ the\ score\ if\ it\ is\ an\ animal,\ and\ increase\ it\ if\ it\ is\ garbage.\r\n
+numComments=5

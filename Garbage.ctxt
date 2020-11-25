@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Garbage
+comment0.text=\r\n\ Garbage\ Class\r\n\ \r\n\ @author\ Rajesh\ Patel,\ Johnathan\ Sewell,\ Garrett\ Dickinson\r\n\ @version\ 4-18-2020\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Garbage\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ ifTouchingRemove()
+comment2.text=\r\n\ Check\ if\ garbage\ is\ touching\ an\ animal,\ and\ remove\ the\ animal\ if\ true\r\n
+comment3.params=
+comment3.target=boolean\ garbageIsAtEdge()
+comment3.text=\r\n\ Check\ if\ garbage\ is\ at\ edge\ of\ world,\ and\ return\ that\ state.\r\n\ @return\ bool\ -\ if\ garbage\ is\ at\ edge\r\n
+numComments=4
